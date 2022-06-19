@@ -1,0 +1,7 @@
+{
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "c:\\Users\\user\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.8\\p5types\\global.d.ts"
+, "Tutorial-Oldver/Turorial.js", "Tutorial-Oldver/Tutorial3.js", "Tutorial-Oldver/Turotial2.js", "Score-Oldver/Score_circle_class_0.js", "Score-Oldver/Score_circle1.js", "Score-Oldver/Score_circle3.js", "Score-Oldver/Score_circle2.js", "Main-Older/sketch2.js", "Tutorial-Oldver/Tutorial_4.js", "Tutorial-Oldver/Tutorial_2.js", "Tutorial-Oldver/Tutorial_03.js", "Tutorial-Oldver/Tutorial_1.js", "Score-Oldver/Score_circle_class_1.js", "Tutorial-Oldver/Tutorial_04.js", "Score-Oldver/Score_circle0.js", "Songselect-Oldver/Song_select-0.js", "Main-Older/Main menu-02.js", "Songselect-Oldver/Song_select-1.js", "Tutorial-Oldver/Tutorial_05.js", "Score-Oldver/Score_circle_class_3.js"  ]
+}
