@@ -13,7 +13,7 @@ If you have any questions or concerns, please contact me at **saviour2111@gmail.
 - Junyoung Cho
   
 ### Overview
- - **Felice** is a simple rhythm game I created around the time I was 19, using P5.js as the foundation. It was during the early days of my programming journey, so it's a bit rough around the edges and has its fair share of bugs. However, I put a lot of effort into incorporating various beautiful graphical effects, and I hope you'll have a fun experience playing it :)
+**Felice** is a simple rhythm game I created around the time I was 19, using P5.js as the foundation. It was during the early days of my programming journey, so it's a bit rough around the edges and has its fair share of bugs. However, I put a lot of effort into incorporating various beautiful graphical effects, and I hope you'll have a fun experience playing it :)
 
 I plan to optimize the code and add more songs in the future, so please look forward to it ´･ᴗ･`
 
